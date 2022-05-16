@@ -16,3 +16,7 @@ The current limitations of the web app are:
   - a 256 character limit (although not explicitly stated on the web app)
   - strictly desktop browser configuration
   - inability to receive speech input on some browsers
+
+
+Access the web application through this link: https://team-salamathanks.github.io/SalamaThanksV1/
+Beta Testing Forms: tinyurl.com/SalamaThanksFeedbackForm1
